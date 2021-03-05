@@ -3,7 +3,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo Images:
+
+Desktop View 1
 ![alt text](https://github.com/is-it-me/random-wallet/blob/main/desktop-1.png?raw=true)
+
+Desktop View 2
+![alt text](https://github.com/is-it-me/random-wallet/blob/main/desktop-2.png?raw=true)
+
+Mobile View 1
+![alt text](https://github.com/is-it-me/random-wallet/blob/main/mobile-1.png?raw=true)
+
+Mobile View 2
+![alt text](https://github.com/is-it-me/random-wallet/blob/main/mobile-2.png?raw=true)
+
+Mobile View 3
+![alt text](https://github.com/is-it-me/random-wallet/blob/main/mobile-3.png?raw=true)
+
 
 ## Available Scripts
 
